@@ -1,0 +1,15 @@
+print("""
+Python, the language of choice
+For those who want to write with joy.
+Its syntax is simple and clean,
+And its power is hard to beat.
+
+With Python, you can do anything.
+You can build websites and games,
+Or you can analyze data and write AI.
+The possibilities are endless.
+
+So if you're looking for a language to learn,
+I highly recommend Python.
+It's a great choice for beginners and experts alike.
+""")
